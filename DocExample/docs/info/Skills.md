@@ -9,4 +9,6 @@
 - C++
 - Node.js
 - React
+- Docker
+- AWS
 - Languages: English (Full Professional)
